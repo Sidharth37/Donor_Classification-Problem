@@ -7,9 +7,13 @@ Classify individuals into 2 categories
 Steps
 -----
 1] Importing Raw Data and shaping it for further analysis
+
 2] Preliminary Exploratory Data Analysis
+
 3] Preparing data for machine learning Model
+
 4] Machine learning model execution 
+
    3 Machine Learning classifiers used 
    a] Decision Tree Classifier
    b] Support Vector Machine Classifier

@@ -1,7 +1,9 @@
 Problem statement
 -----------------
 Classify individuals into 2 categories
+
 1] Individuals with income greater than or equal to 50K
+
 2] Individuals with income less than 50k
 
 Steps

@@ -14,13 +14,13 @@ Steps
 
 4] Machine learning model execution 
 
-   3 Machine Learning classifiers used 
+      3 Machine Learning classifiers used 
    
-   a] Decision Tree Classifier
+      a] Decision Tree Classifier
    
-   b] Support Vector Machine Classifier
+      b] Support Vector Machine Classifier
    
-   c] Adaboost Classifier
+      c] Adaboost Classifier
    
 5] Interpreting results obtained from the above mentioned models
 
